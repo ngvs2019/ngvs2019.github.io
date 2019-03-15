@@ -4,7 +4,7 @@ title: Program
 permalink: /program/
 ---
 
-Preliminary schedule (please edit or add comments)
+Preliminary schedule
 
 ### Monday, June 10
 
