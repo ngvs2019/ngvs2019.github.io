@@ -12,11 +12,9 @@ Pickup people from hotel(s) and take them to BSK (students can help)
 
 Morning talks 9-12 + 20m coffee break
 
-Lunch at Chengdu Ban restaurant (walking distance)
+Lunch at Chengdu Ban restaurant
 
 Afternoon talks/discussion 2-5 + 20m coffee break
-
-Walk up Jingshan
 
 Dinner at BSK 7-10
 
@@ -24,17 +22,16 @@ Dinner at BSK 7-10
 
 Morning talks 9-12 + 20m coffee break
 
-Lunch at BSK (maybe cooking class?)
+Lunch at BSK
 
 Afternoon talks/discussion 2-5 + 20m coffee break
 
-Dinner - Peking duck?
+Dinner
 
 ### Wednesday, June 12
 
-Should this be an outing day or a KIAA day?
+Outing day
 
-Possible outing is Great Wall hike
 
 ### Thursday, June 13
 
