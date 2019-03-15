@@ -8,8 +8,6 @@ Preliminary schedule
 
 ### Monday, June 10
 
-Pickup people from hotel(s) and take them to BSK (students can help)
-
 Morning talks 9-12 + 20m coffee break
 
 Lunch at Chengdu Ban restaurant
