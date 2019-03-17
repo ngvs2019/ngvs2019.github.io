@@ -4,7 +4,8 @@ title: Venue
 permalink: /venue/
 ---
 
-The NGVS Team meeting will be held at two different places in Beijing, China: [Black Sesame Kitchen (BSK)](http://www.blacksesamekitchen.com/) and [Kavli institute for Astronomy and Astrophysics (KIAA) at Peking University (PKU)](http://kiaa.pku.edu.cn/). The detailed information of each venue is shown as follows.  
+The NGVS Team meeting will be held at two different places in Beijing, China: [Black Sesame Kitchen (BSK)](http://www.blacksesamekitchen.com/) and [Kavli institute for Astronomy and Astrophysics (KIAA) at Peking University (PKU)](http://kiaa.pku.edu.cn/). The detailed information of each venue is shown as follows.
+
 ![bj_map](/images/bj_map.png)
 
 
