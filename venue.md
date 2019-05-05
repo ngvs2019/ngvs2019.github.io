@@ -10,7 +10,7 @@ The NGVS Team meeting will be held at two different places in Beijing, China: <a
 <img src="/images/bj_map.png" width="700">
 
 
-### The Courtyard Institute (Black Sesame Kitchen) (Jun 10-11)  
+### The Courtyard Institute (Black Sesame Kitchen) (June 10-11)  
 Address: 28 Zhaolao Hutong, Dongcheng District, Beijing
 
 ![courtyard](/images/courtyard_small_crop.png)
@@ -26,7 +26,7 @@ The distance between the Airport and the BSK is about 30 km and the trip takes a
 * __By subway__  
 Take the airport express train (station right across from the arrival levels in Terminals 2 and 3) to Sanyuanqiao station (on subway line 10); transfer to subway there. Take line 10 at Sanyuanqiao station, transfer to line 8 at Beitucheng station, and get off at National Art Museum of China (line 8). From the station, it takes 10 to 15 minutes on foot to get to the BSK.
 
-### Kavli Institute for Astronomy and Astrophysics at Peking University (Jun 13)  
+### Kavli Institute for Astronomy and Astrophysics at Peking University (June 13)  
 Address: 5 Yiheyuan Road, Haidian District, Beijing
 
 ![kiaa](/images/KIAA_spring_small.jpg)
