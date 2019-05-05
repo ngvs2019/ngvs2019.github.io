@@ -8,16 +8,22 @@ We list the hotel lists near our first two days' workshop venue at "hutong". The
 
 ### 1. Nanluogu Lane Citigo Court Hotel
 
-No. 89 Di'Anmen East Street, Beijing, China
+Address: No. 89 Di'Anmen East Street, Dongcheng, Beijing, China
 
-[http://citigo-hotel-beijing-south-luogu-lane.hotels-beijing-ch.com/en/](http://citigo-hotel-beijing-south-luogu-lane.hotels-beijing-ch.com/en/)
-
+Webpage: [http://citigo-hotel-beijing-south-luogu-lane.hotels-beijing-ch.com/en/](http://citigo-hotel-beijing-south-luogu-lane.hotels-beijing-ch.com/en/)
 
 
 ### 2. Lu Song Yuan Hotel
 
+Address: No.22 Banchang Lane Kuanjie, Dongcheng, Beijing, China
+
+Webpage: 
 [http://lu-song-yuan.hotels-beijing-ch.com/en/](http://lu-song-yuan.hotels-beijing-ch.com/en/)
+
 
 ### 3. Beijing Rong Courtyard Boutique Hotel
 
+Address: No. 28 Mao'er Hutong, Dongcheng, Beijing, China
+
+Webpage:
 [https://www.maoercourtyard.com/en-us](https://www.maoercourtyard.com/en-us)
