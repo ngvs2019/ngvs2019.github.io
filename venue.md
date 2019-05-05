@@ -10,13 +10,15 @@ The NGVS Team meeting will be held at two different places in Beijing, China: [T
 
 
 ### The Courtyard Institute (Black Sesame Kitchen) (Jun 10-11)  
-Address: 28 Zhaolao Hutong, Dongcheng District, Beijing
+Address: 28 Zhaolao Hutong, Dongcheng District, Beijing, 
 
-![courtyard](/images/courtyard.png)
+![courtyard](/images/courtyard_small_crop.png)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d73076.12884205303!2d116.37240477111474!3d39.965411370882094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35f052deb9f8991f%3A0x32aa0fd9997235a1!2zQ2hpbmEsIEJlaWppbmcgU2hpLCBEb25nY2hlbmcgUXUsIFpob25nbGFvIEh1dG9uZywgMjjlj7fpmaIg6YKu5pS_57yW56CBOiAxMDAwMDY!5e0!3m2!1sen!2sus!4v1552728171652" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-#### How to get to the BSK from Beijing International Airport
+#### How to get to the Courtyard Institute/BSK from Beijing International Airport
+Please also see this [helpful transportation page from BSK](http://www.blacksesamekitchen.com/about-us/#getting-here). 
+
 * __By taxi__  
 The distance between the Airport and the BSK is about 30 km and the trip takes about 40 min. Show the driver: 师傅，请载我到沙滩路西200米在沙滩北街红墙酒店门口下车.
 
