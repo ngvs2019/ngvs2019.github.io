@@ -10,7 +10,7 @@ The NGVS Team meeting will be held at two different places in Beijing, China: [T
 
 
 ### The Courtyard Institute (Black Sesame Kitchen) (Jun 10-11)  
-Address: 28 Zhaolao Hutong, Dongcheng District, Beijing, 
+Address: 28 Zhaolao Hutong, Dongcheng District, Beijing
 
 ![courtyard](/images/courtyard_small_crop.png)
 
