@@ -6,7 +6,9 @@ permalink: /venue/
 
 The NGVS Team meeting will be held at two different places in Beijing, China: [The Courtyard Institute](http://www.courtyardinstitute.com/?page_id=778&lang=en) at Black Sesame Kitchen (BSK) and [Kavli institute for Astronomy and Astrophysics (KIAA) at Peking University (PKU)](http://kiaa.pku.edu.cn/). The detailed information of each venue is shown as follows.
 
-![bj_map](/images/bj_map.png)
+
+<img src="/images/bj_map.png" width="800">
+
 
 
 ### The Courtyard Institute (Black Sesame Kitchen) (Jun 10-11)  
