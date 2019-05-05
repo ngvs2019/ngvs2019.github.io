@@ -9,6 +9,7 @@ The NGVS Team meeting will be held at two different places in Beijing, China: <a
 
 <img src="/images/bj_map.png" width="800">
 
+Please check the __Beijing subway map__ <a href="https://www.travelchinaguide.com/images/map/beijing/beijing-subway.gif" target="_blank">here</a>. You can find the Nanluogu Xiang (line 6, 8) and National Art Museum of China (line 8) stops right at the center of the map. The East gate of Peking University (line 4) stop is located at the upper left region of the map.
 
 
 ### The Courtyard Institute (Black Sesame Kitchen) (Jun 10-11)  
