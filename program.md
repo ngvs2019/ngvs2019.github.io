@@ -4,27 +4,23 @@ title: Program
 permalink: /program/
 ---
 
-Preliminary schedule
-
 ### Monday, June 10
 
 Morning talks 9-12 + 20m coffee break
 
-Lunch at Chengdu Ban restaurant
-
 Afternoon talks/discussion 2-5 + 20m coffee break
 
-Dinner at BSK 7-10
+Dinner
+
 
 ### Tuesday, June 11
 
 Morning talks 9-12 + 20m coffee break
 
-Lunch at BSK
-
 Afternoon talks/discussion 2-5 + 20m coffee break
 
-Dinner
+Dinner at <a href="http://www.blacksesamekitchen.com/" target="_blank">Black Sesame Kitchen</a>
+
 
 ### Wednesday, June 12
 
