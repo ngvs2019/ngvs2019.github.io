@@ -24,7 +24,7 @@ Dinner at <a href="http://www.blacksesamekitchen.com/" target="_blank">Black Ses
 
 ### Wednesday, June 12
 
-Outing day
+Excursion
 
 
 ### Thursday, June 13
