@@ -4,7 +4,7 @@ title: Venue
 permalink: /venue/
 ---
 
-The NGVS Team meeting will be held at two different places in Beijing, China: [The Courtyard Institute](http://www.courtyardinstitute.com/?page_id=778&lang=en) at Black Sesame Kitchen (BSK) and [Kavli institute for Astronomy and Astrophysics (KIAA) at Peking University (PKU)](http://kiaa.pku.edu.cn/). The detailed information of each venue is shown as follows.
+The NGVS Team meeting will be held at two different places in Beijing, China: <a href="http://www.courtyardinstitute.com/?page_id=778&lang=en" target="_blank">The Courtyard Institute</a> at Black Sesame Kitchen (BSK) and <a href="http://kiaa.pku.edu.cn/" target="_blank">Kavli institute for Astronomy and Astrophysics (KIAA)</a> at Peking University (PKU). The detailed information of each venue is shown as follows.
 
 
 <img src="/images/bj_map.png" width="800">
@@ -18,7 +18,8 @@ Address: 28 Zhaolao Hutong, Dongcheng District, Beijing
 
 
 #### How to get to the Courtyard Institute/BSK from Beijing International Airport
-Please also see this [helpful transportation page from BSK](http://www.blacksesamekitchen.com/about-us/#getting-here). 
+Please also see this <a href="http://www.blacksesamekitchen.com/about-us/#getting-here" target="_blank">helpful transportation page from BSK</a>.
+
 
 * __By taxi__  
 The distance between the Airport and the BSK is about 30 km and the trip takes about 40 min. Show the driver: 师傅，请载我到沙滩路西200米在沙滩北街红墙酒店门口下车.
@@ -34,4 +35,4 @@ Address: 5 Yiheyuan Road, Haidian District, Beijing
 
 #### How to get to the KIAA from the BSK  
 * __By subway__  
-Take the subway line 6 at Nanluogu Xiang station, transfer to line 4 at Ping'anli station, and get off at the East gate of Peking University station (line 4). From the east gate, it takes 10 and 15 minutes on foot to get to the KIAA. Show the guard at the campus gates to enter the campus: [Enterance Permission Letter](http://kiaa.pku.edu.cn/sites/default/files/Visit_Info/For%20the%20guard%20of%20PKU%20campus.pdf).
+Take the subway line 6 at Nanluogu Xiang station, transfer to line 4 at Ping'anli station, and get off at the East gate of Peking University station (line 4). From the east gate, it takes 10 and 15 minutes on foot to get to the KIAA. Show the guard at the campus gates to enter the campus: <a href="http://kiaa.pku.edu.cn/sites/default/files/Visit_Info/For%20the%20guard%20of%20PKU%20campus.pdf" target="_blank">Enterance Permission Letter</a>.
