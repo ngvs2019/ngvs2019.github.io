@@ -4,7 +4,7 @@ title: Accommodation
 permalink: /accommodation/
 ---
 
-We present the hotel lists near our first two days' workshop venue at "hutong". The nearest subway stations are Nanluogu Xiang (line 6, 8) and National Museum of China (line 8). Please check the location of the hotels as follows.
+We present below a few choices near our first two days' workshop venue in the "hutong". The nearest subway stations are Nanluogu Xiang (line 6, 8) and National Art Museum (line 8). Please check the location of the hotels as shown below. There are actually many hotels in this area, including toward the east near the Art Museum. Addtionally, Airbnb shows availability for some places nearby for these dates. You are free to pick your own lodging, but the following three seem reasonable in price, quality, and location.
 
 <img src="/images/hotels.png" width="600">
 
