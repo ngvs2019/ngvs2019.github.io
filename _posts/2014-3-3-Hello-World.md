@@ -11,4 +11,6 @@ June 12 is currently reserved as an excursion day, and June 13 will be at the Pe
 
 ![KIAA](/images/KIAA_spring_small.jpg)
 
+Please REGISTER with the following link so that we can firm up numbers and a preliminary talk/discussion schedule.
+
 <a href="https://ko.surveymonkey.com/r/BM7CKG7" target="_blank">Registration link</a>
