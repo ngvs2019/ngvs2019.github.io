@@ -13,9 +13,6 @@ Please REGISTER with the following link so that we can firm up numbers and a pre
 
 See you in Beijing!
 
-<p float="left">
-  <img src="/images/courtyard_smakll_crop.png" width="100" />
-  <img src="/iages/KIAA_spring_small.jpg" width="100" /> 
-</p>
+|![Courtyard_Institute](/images/courtyard_small_crop.png)|  |![KIAA](/images/KIAA_spring_small.jpg)|
 
 
