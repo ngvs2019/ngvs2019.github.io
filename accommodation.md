@@ -16,7 +16,7 @@ We present below a few choices near our first two days' workshop venue in the "h
 
 * __Chinese Address:__ 北京东城区地安门东大街89号, 东城区, 北京
 
-
+* __Booking:__ <a href="https://www.trip.com/hotels/beijing-hotel-detail-535615/citigo-hotel/" target="_blank">https://www.trip.com/hotels/beijing-hotel-detail-535615/citigo-hotel/</a>
 
 
 ### 2. Lu Song Yuan Hotel
@@ -25,7 +25,7 @@ We present below a few choices near our first two days' workshop venue in the "h
 
 * __Chinese Address:__ 宽街板厂胡同22号, 东城区, 北京
 
-
+* __Booking:__ <a href="https://www.trip.com/hotels/beijing-hotel-detail-660928/ruiheng-lvsongyuan-hotel/" target="_blank">https://www.trip.com/hotels/beijing-hotel-detail-660928/ruiheng-lvsongyuan-hotel/</a>
 
 
 ### 3. Beijing Rong Courtyard Boutique Hotel
@@ -34,3 +34,4 @@ We present below a few choices near our first two days' workshop venue in the "h
 
 * __Chinese Address:__ 地安门外大街帽儿胡同28号, 东城区, 北京
 
+* __Booking:__ <a href="https://www.trip.com/hotels/beijing-hotel-detail-4852623/rong-courtyard-hotel/" target="_blank">https://www.trip.com/hotels/beijing-hotel-detail-4852623/rong-courtyard-hotel/</a>
