@@ -30,7 +30,9 @@ permalink: /program/
 * Joel C. Roediger: Spectroscopy of the M59-UCD3
 * Discussion
 
-#### Dinner 18:30
+#### Dinner 18:30  
+
+---------------------------------------------------------------
 
 ### Tuesday, June 11
 
@@ -57,14 +59,16 @@ permalink: /program/
 * Sungsoon Lim: GCs in NGVS and MATLAS
 * Discussion
 
-#### Dinner 18:00 at <a href="http://www.blacksesamekitchen.com/" target="_blank">Black Sesame Kitchen</a>
+#### Dinner 18:00 at <a href="http://www.blacksesamekitchen.com/" target="_blank">Black Sesame Kitchen</a>  
 
+---------------------------------------------------------------
 
 ### Wednesday, June 12
 
 Excursion to Great Wall
-Bus pickup from Novotel at 8
+Bus pickup from Novotel at 8  
 
+---------------------------------------------------------------
 
 ### Thursday, June 13
 
