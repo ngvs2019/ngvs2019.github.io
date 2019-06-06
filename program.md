@@ -65,8 +65,8 @@ permalink: /program/
 
 ### Wednesday, June 12
 
-Excursion to Great Wall  
-Bus pickup from Novotel at 8  
+Excursion to the Great Wall  
+Bus pickup from Novotel at 08:00  
 
 ---------------------------------------------------------------
 
