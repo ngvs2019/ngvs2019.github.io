@@ -21,7 +21,7 @@ In order to increase discussion, we are limiting talk lengths to 5 slides per ta
 * Joel C. Roediger: UV stellar populations of GCs
 * Discussion
 
-#### Lunch (cooking class) 12:00-14:00
+#### Lunch (12:00-14:00)
 
 #### Afternoon (UCDs) (14:00-17:00)
 * Chengze Liu: The Progress on UCD project
@@ -50,7 +50,7 @@ In order to increase discussion, we are limiting talk lengths to 5 slides per ta
 * Sungsoon Lim: Virgo UDGs
 * Discussion
 
-#### Lunch (12:00-14:30) 
+#### Cooking class for lunch (12:00-14:30) 
 
 #### Afternoon (GCs and Dynamics) (14:30-17:30)
     
