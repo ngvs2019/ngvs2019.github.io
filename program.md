@@ -32,7 +32,7 @@ In order to increase discussion, we are limiting talk lengths to 5 slides per ta
 * Joel C. Roediger: Spectroscopy of M59-UCD3
 * Discussion
 
-#### Dinner 18:30  
+#### Dinner 18:00 at <a href="http://www.blacksesamekitchen.com/" target="_blank">Black Sesame Kitchen</a>  
 
 ---------------------------------------------------------------
 
@@ -64,7 +64,7 @@ In order to increase discussion, we are limiting talk lengths to 5 slides per ta
 * Discussion
 
 #### Walk to Jingshan Park
-#### Dinner 18:00 at <a href="http://www.blacksesamekitchen.com/" target="_blank">Black Sesame Kitchen</a>  
+#### Dinner 18:30  
 
 ---------------------------------------------------------------
 
