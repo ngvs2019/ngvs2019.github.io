@@ -34,4 +34,4 @@ Address: 5 Yiheyuan Road, Haidian District, Beijing
 
 #### How to get to the KIAA from the BSK  
 * __By subway__  
-Take the subway line 6 at Nanluogu Xiang station, transfer to line 4 at Ping'anli station, and get off at the East gate of Peking University station (line 4). From the east gate, it takes 10 and 15 minutes on foot to get to the KIAA. Show the guard at the campus gates to enter the campus: <a href="http://kiaa.pku.edu.cn/sites/default/files/Visit_Info/For%20the%20guard%20of%20PKU%20campus.pdf" target="_blank">Enterance Permission Letter</a>.
+Take the subway line 6 at Nanluogu Xiang station, transfer to line 4 at Ping'anli station, and get off at the East gate of Peking University station (line 4). From the east gate, it takes 10 and 15 minutes on foot to get to the KIAA. Show the guard at the campus gates to enter the campus: <a href="http://kiaa.pku.edu.cn/sites/default/files/Visit_Info/For%20the%20guard%20of%20PKU%20campus.pdf" target="_blank">Enterance Permission Letter</a>. You can check the campus map <a href="http://kiaa.pku.edu.cn/visitor-info/location" target="_blank">here.
